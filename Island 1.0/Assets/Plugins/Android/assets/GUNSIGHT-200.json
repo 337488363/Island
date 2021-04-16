@@ -1,0 +1,8 @@
+{
+    "CARD_SINGLE":
+    {
+        "CalibFile": "GUNSIGHT-200.dat",
+        "Markers": [91],
+        "MarkersSize": [0.04]
+    }
+}
